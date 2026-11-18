@@ -1,0 +1,4 @@
+dataset_source,region,total_images,classes,url,usage_in_project
+IPB Palm Oil Ripeness Dataset,Bogor (IPB University),690,"3 (Unripe, Ripe, Overripe)",https://repository.ipb.ac.id/handle/123456789/170967,Primary benchmark & 3-class FPGA test set (30 test samples included)
+South Kalimantan Palm Oil Mill Multimodal Dataset,South Kalimantan,Multimodal (Video & FFB Images),"6 (Mill Grading Categories)",https://pmc.ncbi.nlm.nih.gov/articles/PMC9899224,Reference study for industrial mill grading validation
+Central Kalimantan Plantation Ripeness Dataset,Central Kalimantan,Multi-stage FFB Images,"5 (Ripeness Stages)",https://library.kab.ac.ug/Record/doaj-art-b3c8e2b81eb54fee828eeba0b7d594ff/Description,Reference study for plantation maturity progression
